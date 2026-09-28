@@ -14,7 +14,7 @@ This repository contains my introduction video for my **Internee.pk Virtual Inte
 
 ### 🎬 Watch My Introduction Video
 
-[▶️ Open Introduction Video](./introduction-video/Abdul_Moeed_Introduction.mp4)
+[▶️ Open Introduction Video]https://lnkd.in/p/d68HpxEk
 
 ### 🎯 Internship Goals
 
